@@ -1,0 +1,7 @@
+,Val,Val
+,Mean best rank,Mean² rank
+"('parameters', 'KG pool')",,
+KG-custom,3.32,459.9730950699188
+KG-pretrained,14.2,423.24233333333336
+KG-finetuned,17.12,433.7750108767099
+original_BytE,106.92,463.0270041592394

@@ -1,0 +1,4 @@
+,parameters,parameters,parameters,parameters,parameters,parameters,parameters,parameters,parameters,parameters,parameters,parameters,parameters,parameters,parameters,parameters,parameters,parameters,parameters,Val,Val,Val,Val
+,KG_path,training_KG,KG_pool,corpus_input,tie_breaker,forced_truncation,bpe_truncation,bpe_with_RNN,multiple_bpe_encodings,multiple_bpe_loss,model,embedding_dim,lr,num_epochs,min_epochs,vocab_size,fix_missing,exp_root,base_seed,Val_H@1,Val_H@3,Val_H@10,Val_MRR
+9,KGs,NELL-995-h25,KG-pretrained,VandR,descending_size,100,None,Linear,1,False,ComplEx,64,0.01,100,100,2.0,0,automated_scripts/vocab_exploration,10,0.120350228409832,0.182347182945399,0.259353926473787,0.16787383721812402
+0,KGs,NELL-995-h25,KG-custom,E,descending_size,100,None,Linear,1,False,ComplEx,16,0.1,100,100,1.0,1,automated_scripts/vocab_exploration,10,0.075157711551011,0.13068305416576,0.19893408744833502,0.11814047120315702

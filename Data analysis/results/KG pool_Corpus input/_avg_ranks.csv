@@ -1,0 +1,9 @@
+,,Val,Val
+,,Mean best rank,Mean² rank
+"('parameters', 'KG pool')","('parameters', 'Corpus input')",,
+KG-custom,VandR,5.92,441.65052419645707
+KG-custom,randomWalks,8.36,464.60658825016054
+KG-custom,E,11.48,473.6486238123299
+KG-pretrained,VandR,14.2,423.24233333333336
+KG-finetuned,VandR,17.12,433.7750108767099
+original_BytE,,106.92,463.0270041592394

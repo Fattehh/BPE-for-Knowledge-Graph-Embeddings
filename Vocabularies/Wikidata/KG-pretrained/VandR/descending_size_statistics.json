@@ -1,0 +1,7 @@
+{
+  "Training-KG": "WK-50_labeled",
+  "|V| + |R|": 12044,
+  "Corpus creation time": 12.109760284423828,
+  "Corpus size": 209781,
+  "Vocabulary building time": 45920.09771108627
+}

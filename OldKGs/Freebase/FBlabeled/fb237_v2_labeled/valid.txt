@@ -1,0 +1,1166 @@
+Aamir Khan	/people/person/nationality	India
+Don McKellar	/award/award_nominee/award_nominations./award/award_nomination/nominated_for	The Red Violin
+Virgin Records	/music/record_label/artist	Janet Jackson
+marriage	/people/marriage_union_type/unions_of_this_type./people/marriage/location_of_ceremony	Tokyo
+Amjad Khan	/people/person/religion	Islam
+Bhubaneswar	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	February
+Thomas Ian Nicholas	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	Amanda Peet
+University of Delaware	/education/educational_institution/students_graduates./education/education/major_field_of_study	administration
+Alyssa Milano	/base/popstra/celebrity/canoodled./base/popstra/canoodled/participant	Nick Lachey
+Jaws 3-D	/film/film/written_by	Richard Matheson
+It's Complicated	/film/film/language	French
+African Americans	/people/ethnicity/people	Just Blaze
+Phil Ramone	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	Jerry Hey
+Frederick County	/location/us_county/county_seat	Frederick
+13th Screen Actors Guild Awards	/award/award_ceremony/awards_presented./award/award_honor/award_winner	Forest Whitaker
+Stevie Ray Vaughan	/people/person/profession	singer-songwriter
+drama film	/media_common/netflix_genre/titles	The Mirror Has Two Faces
+Edward Burns	/award/award_winner/awards_won./award/award_honor/award_winner	Giovanni Ribisi
+accordion	/music/performance_role/regular_performances./music/group_membership/group	Calle 13
+8 Women	/film/film/release_date_s./film/film_regional_release_date/film_release_region	South Korea
+Ciara	/people/person/profession	singer-songwriter
+Academy Award for Best Story	/award/award_category/winners./award/award_honor/award_winner	Ben Hecht
+Linda Perry	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	Dr. Dre
+Inception	/film/film/release_date_s./film/film_regional_release_date/film_release_region	Austria
+Cree Summer	/people/person/profession	singer-songwriter
+Henan	/base/aareas/schema/administrative_area/administrative_parent	People's Republic of China
+Korn	/music/artist/origin	Bakersfield
+Berkshire County	/location/location/contains	Pittsfield
+Iron Man 2	/film/film/written_by	Justin Theroux
+Annie	/film/film/other_crew./film/film_crew_gig/film_crew_role	production sound mixer
+punt returner	/sports/sports_position/players./sports/sports_team_roster/team	Denver Broncos
+Irving Thalberg	/people/person/spouse_s./people/marriage/type_of_union	marriage
+Hugh Bonneville	/people/person/gender	male organism
+Cuba Gooding Jr.	/film/actor/film./film/performance/film	Coming to America
+William Butler Yeats	/people/person/languages	English
+Eli Roth	/people/person/profession	screenwriter
+Resident Evil	/film/film/release_date_s./film/film_regional_release_date/film_release_region	Singapore
+Republican Party	/government/political_party/politicians_in_this_party./government/political_party_tenure/politician	Shirley Temple
+Mammootty	/people/person/spouse_s./people/marriage/type_of_union	marriage
+Step Up Revolution	/film/film/release_date_s./film/film_regional_release_date/film_release_region	Belgium
+Morrissey	/people/person/gender	male organism
+Sense and Sensibility	/award/award_winning_work/awards_won./award/award_honor/award	BAFTA Award for Best Film
+Hal Holbrook	/award/award_nominee/award_nominations./award/award_nomination/award	Tony Award for Best Actor in a Play
+Sam Neill	/film/actor/film./film/performance/film	The Piano
+Treasure Planet	/film/film/production_companies	Walt Disney Animation Studios
+Josh Weinstein	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	Ken Keeler
+Bedazzled	/film/film/other_crew./film/film_crew_gig/film_crew_role	special effects supervisor
+Nicholas Tse	/people/person/gender	male organism
+Hal Holbrook	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	Emile Hirsch
+Bruce Willis	/base/popstra/celebrity/dated./base/popstra/dated/participant	Demi Moore
+Belgium	/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/olympics	1920 Summer Olympics
+University of Wales	/education/educational_institution/colors	yellow
+Cameron Mitchell	/people/person/gender	male organism
+BAFTA Award for Best Film	/award/award_category/nominees./award/award_nomination/nominated_for	The Crying Game
+Leeds United A.F.C.	/soccer/football_team/current_roster./sports/sports_team_roster/position	goalkeeper
+Katherine Heigl	/award/award_nominee/award_nominations./award/award_nomination/nominated_for	Knocked Up
+Ice Cube	/people/person/languages	English
+Howard Stern	/people/person/profession	radio personality
+table tennis	/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/country	People's Republic of China
+Bachelor of Arts	/education/educational_degree/people_with_this_degree./education/education/institution	University of Canterbury
+The Love Guru	/film/film/genre	romance film
+Aamir Khan	/people/person/religion	Islam
+Takehito Koyasu	/people/person/gender	male organism
+easyJet	/business/business_operation/industry	airline
+Mr. Deeds	/film/film/genre	remake
+sampler	/music/performance_role/regular_performances./music/group_membership/group	Linkin Park
+William T. Orr	/people/person/gender	male organism
+Tim Burton	/film/director/film	Batman Returns
+synthesizer	/music/performance_role/regular_performances./music/group_membership/role	oboe
+percussion instrument	/music/performance_role/regular_performances./music/group_membership/role	accordion
+Norway	/military/military_combatant/military_conflicts./military/military_combatant_group/combatants	Belgium
+Iron Man 2	/film/film/language	French
+Dr. Dre	/award/award_nominee/award_nominations./award/award_nomination/award	Grammy Award for Best Rap Solo Performance
+Giancarlo Esposito	/film/actor/film./film/performance/film	Bob Roberts
+electronic keyboard	/music/performance_role/track_performances./music/track_contribution/role	percussion
+Belgium	/location/location/adjoin_s./location/adjoining_relationship/adjoins	France
+Frankenstein	/film/film/release_date_s./film/film_regional_release_date/film_release_region	Austria
+Emile Hirsch	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	Vince Vaughn
+Diane Sawyer	/people/person/spouse_s./people/marriage/type_of_union	marriage
+Babel	/film/film/genre	drama film
+FK Khazar Lankaran	/soccer/football_team/current_roster./soccer/football_roster_position/position	goalkeeper
+1996 Summer Olympics	/olympics/olympic_games/sports	baseball
+Independent Spirit Award for Best Female Lead	/award/award_category/nominees./award/award_nomination/nominated_for	The Last Station
+Edward G. Robinson	/film/actor/film./film/performance/film	The Prize
+Jermaine Jackson	/people/person/profession	singer-songwriter
+Rocky	/film/film/genre	drama film
+The Jacket	/film/film/genre	drama film
+Rocky	/award/award_nominated_work/award_nominations./award/award_nomination/nominated_for	Rocky V
+John Mills	/people/person/places_lived./people/place_lived/location	Suffolk
+Amanda Peet	/people/person/languages	English
+Smith College	/education/educational_institution/students_graduates./education/education/major_field_of_study	French
+Toni Braxton	/people/person/places_lived./people/place_lived/location	Atlanta
+Jonah Hill	/people/person/profession	voice actor
+California	/location/location/contains	San Diego County
+Sire Records	/music/record_label/artist	Alain Johannes
+V for Vendetta	/film/film/release_date_s./film/film_regional_release_date/film_release_region	Lithuania
+percussion	/music/performance_role/track_performances./music/track_contribution/role	tenor saxophone
+Roger Savage	/award/award_nominee/award_nominations./award/award_nomination/nominated_for	House of Flying Daggers
+Michael C. Hall	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	David Zayas
+Haywire	/film/film/release_date_s./film/film_regional_release_date/film_release_region	India
+Michelle Pfeiffer	/film/actor/film./film/performance/film	Batman Returns
+California	/location/location/adjoin_s./location/adjoining_relationship/adjoins	Pacific Ocean
+accordion	/music/performance_role/regular_performances./music/group_membership/role	synthesizer
+Edmonton Oilers	/sports/sports_team/colors	royal blue
+Utpal Dutt	/people/person/profession	screenwriter
+Japanese American	/people/ethnicity/people	Cary-Hiroyuki Tagawa
+Yoko Ono	/people/person/place_of_birth	Tokyo
+Hawaii	/location/location/contains	Maui County
+/m/02cllz	/people/person/gender	male organism
+Korn	/award/award_nominee/award_nominations./award/award_nomination/award	MTV Video Music Award for Best Direction
+Royal Gold Medal	/award/award_category/winners./award/award_honor/award_winner	Frank Lloyd Wright
+basketball	/sports/sport/pro_athletes./sports/pro_sports_played/athlete	Shaquille O'Neal
+Stephen Moyer	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	Anna Camp
+Bachelor of Arts	/education/educational_degree/people_with_this_degree./education/education/institution	Pace University
+Alfred Molina	/people/person/spouse_s./people/marriage/type_of_union	marriage
+Johannes Brahms	/people/person/gender	male organism
+Malcolm Arnold	/people/person/profession	composer
+Vivica A. Fox	/people/person/spouse_s./people/marriage/type_of_union	marriage
+American Gangster	/film/film/produced_by	Ridley Scott
+Melancholia	/award/award_winning_work/awards_won./award/award_honor/award	National Society of Film Critics Award for Best Film
+Steve Ditko	/award/award_winner/awards_won./award/award_honor/award_winner	Stan Lee
+1986 NCAA Men's Division I Basketball Tournament	/base/marchmadness/ncaa_basketball_tournament/seeds./base/marchmadness/ncaa_tournament_seed/team	Villanova Wildcats men's basketball
+Rocky V	/award/award_winning_work/awards_won./award/award_honor/honored_for	Rambo III
+Annie	/film/film/language	English
+percussion instrument	/music/performance_role/track_performances./music/track_contribution/role	clapping
+Western Front (World War II)	/military/military_conflict/combatants./military/military_combatant_group/combatants	Kingdom of Italy
+Boston Celtics	/sports/professional_sports_team/draft_picks./sports/sports_league_draft_pick/draft	2006 NBA Draft
+Michael Semanick	/award/award_winner/awards_won./award/award_honor/award_winner	Christopher Boyes
+Frank Zappa	/music/group_member/membership./music/group_membership/group	Plastic Ono Band
+Helen Hayes	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	Orson Welles
+myocardial infarction	/people/cause_of_death/people	Martin Balsam
+Penn Badgley	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	Demi Moore
+Steven Wright	/people/person/place_of_birth	Cambridge
+Yann Tiersen	/people/person/spouse_s./people/marriage/type_of_union	marriage
+Sarah Polley	/people/person/profession	screenwriter
+Pearl Harbor	/film/film/other_crew./film/film_crew_gig/film_crew_role	sound editor
+marriage	/people/marriage_union_type/unions_of_this_type./people/marriage/location_of_ceremony	Uppsala
+Gulliver's Travels	/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor	Omar Sharif
+Martin Scorsese	/award/award_nominee/award_nominations./award/award_nomination/award	Primetime Emmy Award for Outstanding Directing for a Drama Series
+Leo Bertos	/people/person/gender	male organism
+Melbourne	/travel/travel_destination/how_to_get_here./travel/transportation/mode_of_transportation	train
+Benny Andersson	/music/artist/track_contributions./music/track_contribution/role	synthesizer
+Satellite Awards 2006	/award/award_ceremony/awards_presented./award/award_honor/honored_for	The Little Mermaid
+Ron Howard	/tv/tv_producer/programs_produced./tv/tv_producer_term/program	From the Earth to the Moon
+goalkeeper	/sports/sports_position/players./sports/sports_team_roster/team	Huddersfield Town F.C.
+Bryn Mawr College	/education/educational_institution/students_graduates./education/education/major_field_of_study	philosophy
+Cary-Hiroyuki Tagawa	/people/person/gender	male organism
+Step Up Revolution	/film/film/genre	romance film
+Fullmetal Alchemist the Movie: Conqueror of Shamballa	/film/film/genre	drama film
+Clive Owen	/film/actor/film./film/performance/film	Gosford Park
+People's Republic of China	/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/olympics	1996 Summer Olympics
+cymbal	/music/performance_role/track_performances./music/track_contribution/role	alto flute
+Melissa Etheridge	/award/award_nominee/award_nominations./award/award_nomination/award	Academy Award for Best Original Song
+68th Academy Awards	/time/event/instance_of_recurring_event	Academy Awards
+Bachelor of Science	/education/educational_degree/people_with_this_degree./education/education/institution	Smith College
+Alan Moore	/people/person/profession	screenwriter
+Columbia Law School	/education/educational_institution/students_graduates./education/education/student	Theodore Roosevelt
+Latvia	/location/location/adjoin_s./location/adjoining_relationship/adjoins	Lithuania
+BAFTA Award for Best Editing	/award/award_category/nominees./award/award_nomination/nominated_for	The Lord of the Rings: The Return of the King
+Bel Ami	/film/film/release_date_s./film/film_regional_release_date/film_release_region	Lithuania
+law degree	/education/educational_degree/people_with_this_degree./education/education/institution	University of Exeter
+psychological thriller	/media_common/netflix_genre/titles	The Prestige
+Pacific Ocean	/location/location/partially_contains	France
+Ewan McGregor	/award/award_nominee/award_nominations./award/award_nomination/award	Screen Actors Guild Award for Outstanding Performance by a Cast in a Motion Picture
+percussion instrument	/music/instrument/instrumentalists	Gloria Estefan
+Goa	/location/administrative_division/country	India
+Kurt Cobain	/people/person/profession	guitarist
+Javier Bardem	/people/person/languages	English
+CR Vasco da Gama	/soccer/football_team/current_roster./soccer/football_roster_position/position	goalkeeper
+Mary McCormack	/people/person/places_lived./people/place_lived/location	Plainfield
+War of the Worlds	/film/film/other_crew./film/film_crew_gig/film_crew_role	production sound mixer
+punt returner	/sports/sports_position/players./sports/sports_team_roster/team	LSU Tigers football
+Primetime Emmy Award for Outstanding Lead Actress in a Comedy Series	/award/award_category/nominees./award/award_nomination/nominated_for	Search for Tomorrow
+Bob Gunton	/people/person/spouse_s./people/marriage/type_of_union	marriage
+photography	/people/profession/specialization_of	artist
+vice president	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	Botswana
+Wisconsin	/location/statistical_region/religions./location/religion_percentage/religion	Presbyterianism
+BAFTA Award for Best Actor in a Leading Role	/award/award_category/nominees./award/award_nomination/nominated_for	Shakespeare in Love
+Screen Actors Guild Award for Outstanding Performance by a Cast in a Motion Picture	/award/award_category/winners./award/award_honor/award_winner	Bryan Cranston
+Frances McDormand	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	Philip Seymour Hoffman
+Bruce Timm	/people/person/gender	male organism
+Priest	/film/film/language	English
+Gene Hackman	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	Bill Murray
+Philip Pullman	/people/person/spouse_s./people/marriage/type_of_union	marriage
+percussion instrument	/music/performance_role/regular_performances./music/group_membership/role	mellotron
+Frederick	/location/hud_county_place/county	Frederick County
+Stuttgarter Kickers	/soccer/football_team/current_roster./sports/sports_team_roster/position	goalkeeper
+Alfred Molina	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	Robert Ridgely
+Emma Stone	/award/award_nominee/award_nominations./award/award_nomination/nominated_for	The Amazing Spider-Man
+French people	/people/ethnicity/geographic_distribution	France
+Yugoslavia	/military/military_combatant/military_conflicts./military/military_combatant_group/combatants	Belgium
+Screen Actors Guild Award for Outstanding Performance by a Cast in a Motion Picture	/award/award_category/nominees./award/award_nomination/nominated_for	Get Shorty
+Clark Atlanta University	/organization/organization/headquarters./location/mailing_address/citytown	Atlanta
+Atlanta	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	March
+Bel Ami	/film/film/release_date_s./film/film_regional_release_date/film_release_region	Sweden
+Phyllis Logan	/people/person/spouse_s./people/marriage/type_of_union	marriage
+20th Century Fox	/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	Alvin and the Chipmunks: Chipwrecked
+British Raj	/military/military_combatant/military_conflicts./military/military_combatant_group/combatants	France
+Troy	/film/film/genre	romance film
+People's Republic of China	/olympics/olympic_participating_country/athletes./olympics/olympic_athlete_affiliation/olympics	1996 Summer Olympics
+The Whistleblower	/film/film/genre	drama film
+Television Hall of Fame	/award/hall_of_fame/inductees./award/hall_of_fame_induction/inductee	Angela Lansbury
+drama film	/media_common/netflix_genre/titles	Flags of Our Fathers
+The Clearing	/film/film/release_date_s./film/film_regional_release_date/film_release_region	Norway
+Hugh Bonneville	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	Siobhan Finneran
+Yellow Submarine	/film/film/language	English
+Bel Ami	/film/film/release_date_s./film/film_regional_release_date/film_release_region	Belgium
+Nobel Prize in Literature	/award/award_category/winners./award/award_honor/award_winner	William Butler Yeats
+Star Wars Episode II: Attack of the Clones	/film/film/distributors./film/film_film_distributor_relationship/film_distribution_medium	VHS
+alto flute	/music/performance_role/track_performances./music/track_contribution/role	bass clarinet
+Shakespeare in Love	/award/award_winning_work/awards_won./award/award_honor/award	Screen Actors Guild Award for Outstanding Performance by a Female Actor in a Leading Role
+Stan Lee	/film/actor/film./film/performance/film	The Amazing Spider-Man
+Michael C. Hall	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	Justin Theroux
+University of Oregon	/education/educational_institution/students_graduates./education/education/student	David Ogden Stiers
+myocardial infarction	/people/cause_of_death/people	Dirk Bogarde
+Ashton Kutcher	/base/popstra/celebrity/dated./base/popstra/dated/participant	Demi Moore
+Dimeback	/sports/sports_position/players./sports/sports_team_roster/team	Carolina Panthers
+Shia LaBeouf	/film/actor/film./film/performance/film	I, Robot
+Mark Johnson	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	Bryan Cranston
+Amazing Grace	/film/film/genre	romance film
+Priest	/film/film/other_crew./film/film_crew_gig/film_crew_role	sound editor
+Demi Moore	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	Shia LaBeouf
+Jonah Hill	/award/award_nominee/award_nominations./award/award_nomination/award	MTV Movie Award for Best Jaw Dropping Moment
+doctoral degree	/education/educational_degree/people_with_this_degree./education/education/institution	University of St Andrews
+Jude Ciccolella	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	Kiefer Sutherland
+Jerry Stiller	/award/award_nominee/award_nominations./award/award_nomination/award	Primetime Emmy Award for Outstanding Guest Actor in a Comedy Series
+rhythmic gymnastics	/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics	2012 Summer Olympics
+William Shakespeare	/people/person/profession	poet
+soft rock	/music/genre/artists	Jimmy Buffett
+Mel Brooks	/award/award_nominee/award_nominations./award/award_nomination/nominated_for	High Anxiety
+The Clearing	/film/film/release_date_s./film/film_regional_release_date/film_release_region	Sweden
+Bill Murray	/people/person/gender	male organism
+Aleksa Palladino	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	Gretchen Mol
+A Few Good Men	/award/award_winning_work/awards_won./award/award_honor/award_winner	Demi Moore
+Rufus Wainwright	/people/person/spouse_s./people/marriage/type_of_union	marriage
+Lionel Messi	/people/person/nationality	Argentina
+Johns Hopkins University	/education/educational_institution/students_graduates./education/education/major_field_of_study	economic history
+Glen Ballard	/people/person/gender	male organism
+Terence Winter	/award/award_winner/awards_won./award/award_honor/award_winner	Matthew Weiner
+Garry Shandling	/film/actor/film./film/performance/film	Iron Man 2
+House of Flying Daggers	/film/film/genre	romance film
+De La Salle University	/education/educational_institution/colors	green
+Utpal Dutt	/people/person/spouse_s./people/marriage/type_of_union	marriage
+Robert Rodriguez	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	John Debney
+Crash	/film/film/language	English
+Lawless	/film/film/genre	drama film
+Bachelor of Arts	/education/educational_degree/people_with_this_degree./education/education/institution	Charles University in Prague
+Hope Davis	/award/award_winner/awards_won./award/award_honor/award_winner	Charlie Kaufman
+Octavia Spencer	/film/actor/film./film/performance/film	The Soloist
+Alec Berg	/people/person/spouse_s./people/marriage/type_of_union	marriage
+Bill Murray	/film/actor/film./film/performance/film	Fantastic Mr. Fox
+doctoral degree	/education/educational_degree/people_with_this_degree./education/education/institution	University of Oregon
+drama film	/media_common/netflix_genre/titles	Shanghai
+Michael Kamen	/people/person/gender	male organism
+Albert Finney	/award/award_nominee/award_nominations./award/award_nomination/award	Screen Actors Guild Award for Outstanding Performance by a Cast in a Motion Picture
+Atlantic City	/award/award_winning_work/awards_won./award/award_honor/award	New York Film Critics Circle Award for Best Actor
+Babel	/film/film/language	English
+Sukumari	/people/person/nationality	India
+Tori Amos	/music/artist/track_contributions./music/track_contribution/role	synthesizer
+Michel Colombier	/award/award_nominee/award_nominations./award/award_nomination/award	Golden Globe Award for Best Original Score
+swimming	/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/country	Venezuela
+Tangled	/film/film/release_date_s./film/film_regional_release_date/film_release_region	South Korea
+Sex and the City 2	/film/film/other_crew./film/film_crew_gig/film_crew_role	production sound mixer
+Desperate Housewives	/award/award_winning_work/awards_won./award/award_honor/award	Primetime Emmy Award for Outstanding Lead Actress in a Comedy Series
+Matt Selman	/award/award_nominee/award_nominations./award/award_nomination/nominated_for	The Simpsons
+Glen Morgan	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	Frank Spotnitz
+Russell Brand	/award/award_nominee/award_nominations./award/award_nomination/nominated_for	Get Him to the Greek
+Milan	/travel/travel_destination/how_to_get_here./travel/transportation/mode_of_transportation	train
+Golden Bear	/award/award_category/nominees./award/award_nomination/nominated_for	8 Women
+Mohnish Bahl	/people/person/spouse_s./people/marriage/type_of_union	marriage
+Trey Parker	/people/person/profession	screenwriter
+That Thing You Do!	/film/film/other_crew./film/film_crew_gig/film_crew_role	special effects supervisor
+Screen Actors Guild Award for Outstanding Performance by a Cast in a Motion Picture	/award/award_category/winners./award/award_honor/award_winner	Javier Bardem
+Ritchie Blackmore	/music/group_member/membership./music/group_membership/role	hurdy-gurdy
+European Film Award for Best Actress	/award/award_category/nominees./award/award_nomination/nominated_for	8 Women
+Singapore	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	February
+The Grudge	/film/film/release_date_s./film/film_regional_release_date/film_release_region	Sweden
+Sunset Boulevard	/film/film/music	Franz Waxman
+Bachelor of Arts	/education/educational_degree/people_with_this_degree./education/education/major_field_of_study	chemistry
+Smokin' Aces	/film/film/other_crew./film/film_crew_gig/film_crew_role	production sound mixer
+Richard Taylor	/award/award_nominee/award_nominations./award/award_nomination/award	Academy Award for Best Costume Design
+Peter Pan	/film/film/other_crew./film/film_crew_gig/film_crew_role	production sound mixer
+Tsui Hark	/award/award_nominee/award_nominations./award/award_nomination/award	Hong Kong Film Award for Best Action Choreography
+Jay Z	/award/award_nominee/award_nominations./award/award_nomination/award	Grammy Award for Best Rap Solo Performance
+Fred Thompson	/people/person/gender	male organism
+Hope Davis	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	Emily Watson
+Erika Christensen	/award/award_winner/awards_won./award/award_honor/award_winner	Don Cheadle
+Jason Alexander	/people/person/place_of_birth	Newark
+Virgin Records	/music/record_label/artist	Yann Tiersen
+71st Academy Awards	/award/award_ceremony/awards_presented./award/award_honor/award_winner	Tom Stoppard
+Tanikella Bharani	/people/person/gender	male organism
+lead guitar	/music/performance_role/regular_performances./music/group_membership/group	Linkin Park
+Dr. Dre	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	Jim Jonsin
+505 Games	/business/business_operation/industry	video game industry
+Juilliard School	/education/educational_institution/students_graduates./education/education/student	David Ogden Stiers
+Screen Actors Guild Award for Outstanding Performance by an Ensemble in a Comedy Series	/award/award_category/winners./award/award_honor/award_winner	Ray Romano
+Beowulf	/film/film/genre	computer animation
+National Lampoon's Animal House	/film/film/release_date_s./film/film_regional_release_date/film_release_region	Sweden
+Callum Keith Rennie	/people/person/gender	male organism
+American Airlines	/business/business_operation/industry	airline
+Kristen Stewart	/award/award_nominee/award_nominations./award/award_nomination/award	Screen Actors Guild Award for Outstanding Performance by a Cast in a Motion Picture
+BAFTA Award for Best Actor in a Leading Role	/award/award_category/nominees./award/award_nomination/nominated_for	About Schmidt
+synthesizer	/music/instrument/instrumentalists	The Neptunes
+The Constant Gardener	/film/film/language	English
+smooth jazz	/music/genre/artists	Joe Jackson
+Dudley Moore	/people/person/spouse_s./people/marriage/type_of_union	marriage
+electronic keyboard	/music/performance_role/regular_performances./music/group_membership/role	lead guitar
+Billy Elliot	/award/award_winning_work/awards_won./award/award_honor/award_winner	Julie Walters
+lead guitar	/music/performance_role/regular_performances./music/group_membership/group	Suicidal Tendencies
+1960 Summer Olympics	/time/event/locations	Rome
+Van Helsing	/film/film/genre	costume drama
+Hugh Bonneville	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	Phyllis Logan
+Grammy Award for Best Music Video	/award/award_category/winners./award/award_honor/award_winner	David Fincher
+George Lucas	/film/director/film	American Graffiti
+myocardial infarction	/people/cause_of_death/people	Michael Kamen
+Gretchen Mol	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	Alan Tudyk
+Backstairs at the White House	/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor	Louis Gossett
+Hope Davis	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	Philip Seymour Hoffman
+All About Eve	/award/award_winning_work/awards_won./award/award_honor/award_winner	20th Century Fox
+Martin Short	/award/award_nominee/award_nominations./award/award_nomination/award	Primetime Emmy Award for Outstanding Supporting Actor in a Miniseries or a Movie
+Spain national football team	/soccer/football_team/current_roster./sports/sports_team_roster/position	goalkeeper
+Inception	/film/film/film_format	IMAX
+Friuli-Venezia Giulia	/location/location/adjoin_s./location/adjoining_relationship/adjoins	Emilia-Romagna
+Michael Redgrave	/people/person/gender	male organism
+Imperial College London	/education/educational_institution/students_graduates./education/education/major_field_of_study	chemistry
+goalkeeper	/sports/sports_position/players./sports/sports_team_roster/team	PFC Levski Sofia
+BAFTA Award for Best Film	/award/award_category/nominees./award/award_nomination/nominated_for	All About Eve
+60th Primetime Emmy Awards	/award/award_ceremony/awards_presented./award/award_honor/honored_for	Desperate Housewives
+electronic keyboard	/music/performance_role/track_performances./music/track_contribution/role	steel guitar
+Grammy Award for Best Rap Solo Performance	/award/award_category/winners./award/award_honor/award_winner	Jay Z
+South Pacific	/film/film/language	English
+BAFTA Award for Best Film	/award/award_category/winners./award/award_honor/award_winner	Claude Berri
+Adolph Green	/people/person/spouse_s./people/marriage/type_of_union	marriage
+To Rome with Love	/film/film/release_date_s./film/film_regional_release_date/film_release_region	Belgium
+Daredevil	/film/film/other_crew./film/film_crew_gig/film_crew_role	special effects supervisor
+Henry V	/film/film/language	English
+Michael C. Hall	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	Lauren Ambrose
+Mahatma Gandhi	/influence/influence_node/influenced_by	G. K. Chesterton
+The Dark Knight Rises	/film/film/release_date_s./film/film_regional_release_date/film_release_region	Sweden
+accordion	/music/performance_role/regular_performances./music/group_membership/role	electronic keyboard
+fatigue	/medicine/symptom/symptom_of	tuberculosis
+Javier Bardem	/award/award_winner/awards_won./award/award_honor/award_winner	Tommy Lee Jones
+Hotel Transylvania	/film/film/release_date_s./film/film_regional_release_date/film_release_region	Belgium
+Saw	/film/film/genre	slasher film
+Ryan Reynolds	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	Hugh Jackman
+Bad Teacher	/film/film/other_crew./film/film_crew_gig/film_crew_role	production sound mixer
+BAFTA Award for Best Film	/award/award_category/nominees./award/award_nomination/nominated_for	Singin' in the Rain
+Insidious	/film/film/language	English
+Kung Fu Hustle	/film/film/film_format	Super 35
+Bai Ling	/people/person/nationality	People's Republic of China
+Steven Van Zandt	/people/person/profession	guitarist
+Dudley Moore	/people/deceased_person/place_of_death	Plainfield
+Matthew Lillard	/people/person/spouse_s./people/marriage/type_of_union	marriage
+Rainn Wilson	/award/award_winner/awards_won./award/award_honor/award_winner	Lauren Ambrose
+mellotron	/music/performance_role/track_performances./music/track_contribution/role	classical guitar
+Clive Owen	/award/award_winner/awards_won./award/award_honor/award_winner	Geraldine Somerville
+Roman Polanski	/award/award_nominee/award_nominations./award/award_nomination/nominated_for	Oliver Twist
+Robert Wise	/film/director/film	The Sound of Music
+musical film	/media_common/netflix_genre/titles	The Sound of Music
+goalkeeper	/sports/sports_position/players./sports/sports_team_roster/team	Manisaspor
+Member of Congress	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	France
+eventing	/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics	1996 Summer Olympics
+20th United States Congress	/government/legislative_session/members./government/government_position_held/district_represented	Massachusetts
+Van Helsing	/film/film/genre	mystery fiction
+31st Academy Awards	/time/event/instance_of_recurring_event	Academy Awards
+Massachusetts	/location/location/adjoin_s./location/adjoining_relationship/adjoins	New Hampshire
+The Hobbit: An Unexpected Journey	/film/film/other_crew./film/film_crew_gig/film_crew_role	production sound mixer
+House of Flying Daggers	/film/film/release_date_s./film/film_regional_release_date/film_release_region	India
+Anna Gunn	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	Bryan Cranston
+African Americans	/people/ethnicity/people	Terrence Howard
+heart failure	/people/cause_of_death/people	Arthur Schopenhauer
+Mark Isham	/award/award_nominee/award_nominations./award/award_nomination/award	Golden Globe Award for Best Original Score
+Hugh Jackman	/base/popstra/celebrity/friendship./base/popstra/friendship/participant	Liev Schreiber
+swimming	/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/country	Morocco
+Nicole Scherzinger	/people/person/profession	artist
+William Fichtner	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	Brendan Fraser
+Bel Ami	/film/film/release_date_s./film/film_regional_release_date/film_release_region	Argentina
+Don Cheadle	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	D. W. Moffett
+J. R. R. Tolkien	/people/person/spouse_s./people/marriage/type_of_union	marriage
+Winona Ryder	/award/award_nominee/award_nominations./award/award_nomination/award	Screen Actors Guild Award for Outstanding Performance by a Cast in a Motion Picture
+Cajun	/people/ethnicity/languages_spoken	French
+tambourine	/music/performance_role/regular_performances./music/group_membership/role	cello
+electronic keyboard	/music/performance_role/track_performances./music/track_contribution/role	clapping
+BAFTA Award for Best Film	/award/award_category/nominees./award/award_nomination/nominated_for	The Departed
+The Last Picture Show	/film/film/genre	drama film
+Clancy Brown	/film/actor/dubbing_performances./film/dubbing_performance/language	English
+Union College	/education/educational_institution/students_graduates./education/education/student	Jimmy Carter
+The Heiress	/film/film/language	French
+Shakespeare in Love	/award/award_winning_work/awards_won./award/award_honor/award	BAFTA Award for Best Film
+Anonymous	/film/film/language	English
+African Americans	/people/ethnicity/people	Janet Jackson
+Drea de Matteo	/people/person/religion	Catholicism
+Terry Crews	/people/person/place_of_birth	Flint
+Middlebury College	/education/educational_institution/students_graduates./education/education/major_field_of_study	English
+cymbal	/music/performance_role/track_performances./music/track_contribution/role	tenor saxophone
+Stephen Dillane	/award/award_nominee/award_nominations./award/award_nomination/award	Screen Actors Guild Award for Outstanding Performance by a Cast in a Motion Picture
+Mali	/olympics/olympic_participating_country/athletes./olympics/olympic_athlete_affiliation/olympics	2012 Summer Olympics
+Steven Levitan	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	Brad Grey
+60th Primetime Emmy Awards	/award/award_ceremony/awards_presented./award/award_honor/award_winner	Bryan Cranston
+goalkeeper	/sports/sports_position/players./sports/sports_team_roster/team	FC Torpedo Moscow
+50 Cent	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	Dr. Dre
+Kung Fu Hustle	/film/film/language	English
+Demi Moore	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	Joy Bryant
+Ashton Kutcher	/people/person/profession	screenwriter
+Daniel Handler	/influence/influence_node/influenced_by	Edgar Allan Poe
+Kingdom of Italy	/military/military_combatant/military_conflicts./military/military_combatant_group/combatants	Romania
+56th Academy Awards	/award/award_ceremony/awards_presented./award/award_honor/honored_for	Yentl
+Molly Shannon	/people/person/spouse_s./people/marriage/type_of_union	marriage
+The Constant Gardener	/award/award_winning_work/awards_won./award/award_honor/award	BAFTA Award for Best Editing
+Dr. Dre	/music/artist/track_contributions./music/track_contribution/role	electronic keyboard
+Elijah Wood	/film/actor/film./film/performance/film	The Hobbit: An Unexpected Journey
+fatigue	/medicine/symptom/symptom_of	myocardial infarction
+Magnolia	/film/film/executive_produced_by	Michael De Luca
+Cate Blanchett	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	Taraji P. Henson
+Mary-Louise Parker	/base/popstra/celebrity/dated./base/popstra/dated/participant	Billy Crudup
+European Film Award for Best Actress	/award/award_category/nominees./award/award_nomination/nominated_for	Billy Elliot
+Theodore Bikel	/award/award_nominee/award_nominations./award/award_nomination/award	Tony Award for Best Featured Actor in a Musical
+Billy Dee Williams	/people/person/gender	male organism
+Hillary Clinton	/people/person/spouse_s./people/marriage/spouse	Bill Clinton
+Brad Falchuk	/tv/tv_writer/tv_programs./tv/tv_program_writer_relationship/tv_program	American Horror Story
+Laura Linney	/award/award_nominee/award_nominations./award/award_nomination/award	Screen Actors Guild Award for Outstanding Performance by a Cast in a Motion Picture
+Bruno Mars	/people/person/gender	male organism
+Bo Derek	/people/person/spouse_s./people/marriage/type_of_union	marriage
+Frank Loesser	/people/person/gender	male organism
+easyJet	/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_language	English
+Robert Morse	/people/person/spouse_s./people/marriage/type_of_union	marriage
+A Simple Life	/film/film/language	Yue Chinese
+Cornell University	/education/educational_institution/students_graduates./education/education/major_field_of_study	English
+Tom Green	/people/person/gender	male organism
+Mao's Last Dancer	/film/film/genre	drama film
+1912 Summer Olympics	/user/jg/default_domain/olympic_games/sports	swimming
+White American	/people/ethnicity/people	Heather Graham
+A Few Good Men	/film/film/featured_film_locations	Newport Beach
+BAFTA Award for Best Film	/award/award_category/nominees./award/award_nomination/nominated_for	Mrs. Brown
+Fred Williamson	/sports/pro_athlete/teams./sports/sports_team_roster/team	Kansas City Chiefs
+tenor saxophone	/music/performance_role/track_performances./music/track_contribution/role	bass clarinet
+West Side Story	/film/film/produced_by	Robert Wise
+Basic Instinct 2	/film/film/film_format	Super 35
+Will Arnett	/award/award_nominee/award_nominations./award/award_nomination/award	Primetime Emmy Award for Outstanding Guest Actor in a Comedy Series
+A Room with a View	/film/film/language	English
+Academy Award for Best Original Song	/award/award_category/winners./award/award_honor/award_winner	Jimmy Van Heusen
+Thomas Dekker	/people/person/gender	male organism
+Union College	/education/educational_institution/students_graduates./education/education/student	Phil Alden Robinson
+Dave Wittenberg	/people/person/profession	voice actor
+Kristin Davis	/people/person/places_lived./people/place_lived/location	South Carolina
+The Madness of King George	/film/film/music	George Frideric Handel
+Gary Cooper	/people/person/spouse_s./people/marriage/type_of_union	marriage
+trance	/music/genre/artists	Fatboy Slim
+Romania	/organization/organization_member/member_of./organization/organization_membership/organization	Council of Europe
+Costa-Gavras	/people/person/nationality	France
+Andrew Gold	/people/person/places_lived./people/place_lived/location	Ridgefield
+Cork	/location/location/adjoin_s./location/adjoining_relationship/adjoins	County Kerry
+Lou Diamond Phillips	/people/person/spouse_s./people/marriage/type_of_union	marriage
+BAFTA Award for Best Actor in a Leading Role	/award/award_category/winners./award/award_honor/award_winner	Bill Murray
+Bachelor of Science	/education/educational_degree/people_with_this_degree./education/education/major_field_of_study	biochemistry
+Gary Cooper	/people/deceased_person/place_of_death	Beverly Hills
+Brian McKnight	/people/person/profession	singer-songwriter
+marriage	/people/marriage_union_type/unions_of_this_type./people/marriage/location_of_ceremony	Reno
+Winona Ryder	/base/popstra/celebrity/breakup./base/popstra/breakup/participant	Jimmy Fallon
+Screen Actors Guild Award for Outstanding Performance by a Male Actor in a Supporting Role	/award/award_category/winners./award/award_honor/ceremony	12th Screen Actors Guild Awards
+swimming	/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/country	Sri Lanka
+Jonah Hill	/award/award_nominee/award_nominations./award/award_nomination/nominated_for	21 Jump Street
+Wild Wild West	/film/film/other_crew./film/film_crew_gig/film_crew_role	production sound mixer
+Television Hall of Fame	/award/hall_of_fame/inductees./award/hall_of_fame_induction/inductee	Tom Werner
+oud	/music/performance_role/track_performances./music/track_contribution/role	synthesizer
+Vincent D'Onofrio	/film/actor/film./film/performance/film	Cadillac Records
+Tori Amos	/music/artist/contribution./music/recording_contribution/performance_role	synthesizer
+1996 Summer Olympics	/user/jg/default_domain/olympic_games/sports	table tennis
+American Graffiti	/film/film/release_date_s./film/film_regional_release_date/film_release_region	France
+/m/0283ph	/tv/tv_program/languages	English
+Satellite Award for Best Cinematography	/award/award_category/nominees./award/award_nomination/nominated_for	Hamlet
+Ben Hecht	/people/person/languages	English
+Steven Wright	/people/person/languages	English
+Madagascar 3: Europe's Most Wanted	/film/film/release_date_s./film/film_regional_release_date/film_release_region	Sweden
+National Society of Film Critics Award for Best Film	/award/award_category/nominees./award/award_nomination/nominated_for	Bonnie and Clyde
+Chris Claremont	/people/person/languages	English
+MTV	/broadcast/content/artist	Ice Cube
+Atom Egoyan	/people/person/profession	screenwriter
+Academy Award for Best Story	/award/award_category/nominees./award/award_nomination/nominated_for	Roman Holiday
+11th United States Congress	/government/legislative_session/members./government/government_position_held/legislative_sessions	13th United States Congress
+Chris Carter	/influence/influence_node/influenced_by	Richard Matheson
+Kelsey Grammer	/film/actor/film./film/performance/film	Toy Story 2
+Fight Club	/film/film/release_date_s./film/film_regional_release_date/film_release_region	Argentina
+Fargo	/film/film/edited_by	/m/02kxbwx
+Simon Cowell	/people/person/employment_history./business/employment_tenure/company	Bertelsmann Music Group
+Christina Applegate	/base/popstra/celebrity/friendship./base/popstra/friendship/participant	Conan O'Brien
+Sire Records	/music/record_label/artist	Al Jourgensen
+vice president	/business/job_title/people_with_this_title./business/employment_tenure/company	Macy's, Inc.
+Alvin and the Chipmunks: Chipwrecked	/film/film/release_date_s./film/film_regional_release_date/film_release_region	Belgium
+Bachelor of Arts	/education/educational_degree/people_with_this_degree./education/education/major_field_of_study	English
+27th Academy Awards	/award/award_ceremony/awards_presented./award/award_honor/award_winner	George Seaton
+John Kerry	/people/person/spouse_s./people/marriage/type_of_union	marriage
+Robert Rodriguez	/people/person/profession	screenwriter
+Robert Wise	/award/award_winner/awards_won./award/award_honor/award_winner	Mervyn LeRoy
+Grey Gardens	/award/award_winning_work/awards_won./award/award_honor/award_winner	Jessica Lange
+Ben Hecht	/people/person/spouse_s./people/marriage/type_of_union	marriage
+Seth MacFarlane	/people/person/profession	screenwriter
+India	/location/location/contains	University of Madras
+Mammootty	/people/person/nationality	India
+To Rome with Love	/film/film/release_date_s./film/film_regional_release_date/film_release_region	Singapore
+Magnolia	/award/award_winning_work/awards_won./award/award_honor/award_winner	Philip Seymour Hoffman
+Michael Kamen	/music/artist/track_contributions./music/track_contribution/role	electronic keyboard
+Seth MacFarlane	/award/award_nominee/award_nominations./award/award_nomination/award	MTV Movie Award for Best Jaw Dropping Moment
+Henry V	/film/film/genre	drama film
+Sex and the City 2	/film/film/other_crew./film/film_crew_gig/film_crew_role	special effects supervisor
+Anna Deavere Smith	/award/award_nominee/award_nominations./award/award_nomination/nominated_for	The Human Stain
+toy piano	/music/performance_role/track_performances./music/track_contribution/role	tambourine
+The Human Stain	/film/film/other_crew./film/film_crew_gig/film_crew_role	production sound mixer
+Genoa Cricket and Football Club	/soccer/football_team/current_roster./sports/sports_team_roster/position	goalkeeper
+Mortal Kombat: Annihilation	/film/film/language	English
+French horn	/music/performance_role/regular_performances./music/group_membership/group	Electric Light Orchestra
+Don Messick	/people/person/place_of_birth	Buffalo
+Linn County	/location/location/contains	Cedar Rapids
+Keith Forsey	/people/person/gender	male organism
+goalkeeper	/sports/sports_position/players./sports/sports_team_roster/team	Stuttgarter Kickers
+Hugh Bonneville	/award/award_nominee/award_nominations./award/award_nomination/nominated_for	Iris
+My Sister's Keeper	/film/film/genre	drama film
+autoharp	/music/performance_role/regular_performances./music/group_membership/group	The Band
+Don Cheadle	/award/award_nominee/award_nominations./award/award_nomination/nominated_for	Iron Man 2
+Dilwale Dulhania Le Jayenge	/film/film/produced_by	Yash Chopra
+MTV Video Music Award for Best Direction	/award/award_category/winners./award/award_honor/award_winner	Fatboy Slim
+People's Republic of China	/location/location/contains	Hebei
+Robert Morse	/award/award_winner/awards_won./award/award_honor/award_winner	Rich Sommer
+John C. Reilly	/people/person/spouse_s./people/marriage/type_of_union	marriage
+Nick Lachey	/people/person/languages	English
+Peterborough United F.C.	/soccer/football_team/current_roster./soccer/football_roster_position/position	winger
+doctoral degree	/education/educational_degree/people_with_this_degree./education/education/institution	Carnegie Mellon University
+David Ogden Stiers	/film/actor/film./film/performance/film	The Hunchback of Notre Dame
+Domino	/film/film/other_crew./film/film_crew_gig/film_crew_role	production sound mixer
+Grey Gardens	/film/film/genre	biographical film
+Mary-Louise Parker	/award/award_nominee/award_nominations./award/award_nomination/award	Primetime Emmy Award for Outstanding Lead Actress in a Comedy Series
+Nigel Lythgoe	/people/person/profession	screenwriter
+31st United States Congress	/government/legislative_session/members./government/government_position_held/district_represented	Massachusetts
+Sergeant York	/film/film/language	English
+Kraft Foods	/award/ranked_item/appears_in_ranked_lists./award/ranking/list	Fortune 500
+Backstairs at the White House	/tv/tv_program/genre	drama film
+accordion	/music/instrument/instrumentalists	Loreena McKennitt
+V for Vendetta	/film/film/genre	dystopia
+Academy Award for Best Costume Design	/award/award_category/nominees./award/award_nomination/nominated_for	Shakespeare in Love
+Ne-Yo	/base/popstra/celebrity/dated./base/popstra/dated/participant	Vivica A. Fox
+Richard Matheson	/people/person/nationality	Norway
+Texas Tech University	/education/educational_institution/students_graduates./education/education/student	John Denver
+Sense and Sensibility	/film/film/genre	romance film
+Pete Postlethwaite	/people/person/languages	English
+Montserrat national football team	/soccer/football_team/current_roster./sports/sports_team_roster/position	goalkeeper
+Shakira	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	Sebastian Krys
+Michael Kamen	/award/award_nominee/award_nominations./award/award_nomination/award	Golden Globe Award for Best Original Score
+Giovanni Ribisi	/people/person/languages	English
+Dimeback	/sports/sports_position/players./sports/sports_team_roster/team	Cleveland Browns
+21 Jump Street	/film/film/story_by	Jonah Hill
+Jim Sheridan	/award/award_nominee/award_nominations./award/award_nomination/award	BAFTA Award for Best Film
+Brendan Fraser	/people/person/languages	English
+Giancarlo Esposito	/people/person/gender	male organism
+Stanley Donen	/film/director/film	Seven Brides for Seven Brothers
+Minority Report	/film/film/film_format	Super 35
+Hal Holbrook	/people/person/employment_history./business/employment_tenure/company	United States Army
+Filmfare Award for Best Director	/award/award_category/winners./award/award_honor/award_winner	Manoj Kumar
+Big Fish	/film/film/release_date_s./film/film_regional_release_date/film_release_region	Singapore
+Alfre Woodard	/award/award_nominee/award_nominations./award/award_nomination/award	Screen Actors Guild Award for Outstanding Performance by a Cast in a Motion Picture
+Anonymous	/film/film/genre	drama film
+Murder on the Orient Express	/film/film/cinematography	Geoffrey Unsworth
+Tom Hollander	/award/award_winner/awards_won./award/award_honor/award_winner	Emily Watson
+minister	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	Sweden
+swimming	/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics	1920 Summer Olympics
+Fiddler on the Roof	/film/film/genre	drama film
+Robert Wise	/film/director/film	West Side Story
+Edmond O'Brien	/people/person/spouse_s./people/marriage/type_of_union	marriage
+F.K. Partizan	/soccer/football_team/current_roster./soccer/football_roster_position/position	goalkeeper
+Bertelsmann Music Group	/music/record_label/artist	Ritchie Blackmore
+Roman Polanski	/people/person/place_of_birth	Paris
+December	/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	February
+Oz	/tv/tv_program/languages	English
+Lyndsy Fonseca	/people/person/languages	English
+Man on the Moon	/film/film/genre	biographical film
+toy piano	/music/performance_role/regular_performances./music/group_membership/role	clapping
+House of Flying Daggers	/film/film/release_date_s./film/film_regional_release_date/film_release_region	France
+Kevin Betsy	/people/person/gender	male organism
+American Graffiti	/award/award_winning_work/awards_won./award/award_honor/award_winner	George Lucas
+The Prize	/film/film/language	French
+Primetime Emmy Award for Outstanding Lead Actress in a Comedy Series	/award/award_category/winners./award/award_honor/award_winner	Sarah Jessica Parker
+John Mills	/film/actor/film./film/performance/film	Hamlet
+Yui Horie	/people/person/profession	singer-songwriter
+drama film	/media_common/netflix_genre/titles	Amazing Grace
+Mack Sennett	/people/person/gender	male organism
+Persepolis	/film/film/release_date_s./film/film_regional_release_date/film_release_region	Romania
+Orson Welles	/people/person/spouse_s./people/marriage/type_of_union	marriage
+Nine Lives	/film/film/genre	drama film
+Italian American	/people/ethnicity/people	Ray Romano
+Julie Walters	/award/award_nominee/award_nominations./award/award_nomination/award	European Film Award for Best Actress
+Ken Ralston	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	Richard Edlund
+George Seaton	/people/person/spouse_s./people/marriage/type_of_union	marriage
+Ben Gibbard	/base/popstra/celebrity/friendship./base/popstra/friendship/participant	John Krasinski
+trance	/music/genre/parent_genre	ambient music
+lead guitar	/music/performance_role/regular_performances./music/group_membership/group	AFI
+Felicity Huffman	/award/award_nominee/award_nominations./award/award_nomination/award	Screen Actors Guild Award for Outstanding Performance by a Female Actor in a Leading Role
+Star Wars Episode II: Attack of the Clones	/film/film/story_by	George Lucas
+Charles Baudelaire	/people/person/religion	Catholicism
+Burt Lancaster	/award/award_nominee/award_nominations./award/award_nomination/award	BAFTA Award for Best Actor in a Leading Role
+Jeff Schaffer	/people/person/place_of_birth	Cleveland
+Eli Roth	/award/award_winner/awards_won./award/award_honor/award_winner	Diane Kruger
+Bad Teacher	/film/film/language	English
+soft rock	/music/genre/artists	James Blunt
+Coolio	/award/award_nominee/award_nominations./award/award_nomination/award	Grammy Award for Best Rap Solo Performance
+Big Fish	/film/film/other_crew./film/film_crew_gig/film_crew_role	production sound mixer
+Iron Man 2	/film/film/other_crew./film/film_crew_gig/film_crew_role	production sound mixer
+John Bailey	/people/person/gender	male organism
+Priest	/film/film/other_crew./film/film_crew_gig/film_crew_role	special effects supervisor
+Victor Garber	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	Emile Hirsch
+Mark Isham	/music/artist/track_contributions./music/track_contribution/role	French horn
+Ramsey County	/location/location/adjoin_s./location/adjoining_relationship/adjoins	Hennepin County
+Thirteen Days	/film/film/other_crew./film/film_crew_gig/film_crew_role	sound editor
+African Americans	/people/ethnicity/people	Ne-Yo
+Mark Berger	/award/award_nominee/award_nominations./award/award_nomination/nominated_for	The Right Stuff
+French horn	/music/performance_role/track_performances./music/track_contribution/role	bass clarinet
+Kate Flannery	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	B. J. Novak
+Ben Gibbard	/people/person/spouse_s./people/marriage/type_of_union	marriage
+Shia LaBeouf	/award/award_nominee/award_nominations./award/award_nomination/award	Golden Raspberry Award for Worst Screen Couple/Ensemble
+John C. Reilly	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	Tommy Lee Jones
+Anthony Quinn	/people/person/gender	male organism
+Golden Raspberry Award for Worst Screen Couple/Ensemble	/award/award_category/nominees./award/award_nomination/nominated_for	Basic Instinct 2
+Joni Mitchell	/people/person/spouse_s./people/marriage/spouse	Larry Klein
+Arnold Schwarzenegger	/people/person/gender	male organism
+Melbourne	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	December
+Bachelor of Science	/education/educational_degree/people_with_this_degree./education/education/institution	University of Pennsylvania
+Rich Sommer	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	Robert Morse
+musical	/education/field_of_study/students_majoring./education/education/student	Nicole Scherzinger
+The Singing Detective	/film/film/language	English
+Mickey's Magical Christmas: Snowed in at the House of Mouse	/film/film/language	English
+Omar Sharif	/film/actor/film./film/performance/film	Rambo III
+Charlie Kaufman	/people/person/spouse_s./people/marriage/type_of_union	marriage
+To Rome with Love	/film/film/other_crew./film/film_crew_gig/film_crew_role	special effects supervisor
+Academy Award for Best Documentary Feature	/award/award_category/winners./award/award_honor/ceremony	60th Academy Awards
+BAFTA Award for Best Editing	/award/award_category/nominees./award/award_nomination/nominated_for	The Full Monty
+Jeff Schaffer	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	Alec Berg
+Steven Wright	/people/person/gender	male organism
+University of Dayton	/education/educational_institution/students_graduates./education/education/major_field_of_study	administration
+Hugo Award for Best Short Story	/award/award_category/winners./award/award_honor/award_winner	George R. R. Martin
+bass clarinet	/music/performance_role/track_performances./music/track_contribution/role	alto flute
+Henry Grace	/people/person/profession	set decorator
+Singin' in the Rain	/film/film/cinematography	Harold Rosson
+eventing	/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics	2012 Summer Olympics
+Louis Delluc Prize	/award/award_category/winners./award/award_honor/award_winner	Costa-Gavras
+percussion instrument	/music/performance_role/regular_performances./music/group_membership/group	The Fall
+Howard the Duck	/film/film/production_companies	Lucasfilm
+People's Republic of China	/location/location/contains	Shandong
+David O. Russell	/film/director/film	I Heart Huckabees
+Cadillac Records	/film/film/genre	drama film
+71st Academy Awards	/award/award_ceremony/awards_presented./award/award_honor/award_winner	Gary Summers
+To Rome with Love	/film/film/release_date_s./film/film_regional_release_date/film_release_region	Lithuania
+bass clarinet	/music/performance_role/track_performances./music/track_contribution/role	tenor saxophone
+Charles Baudelaire	/people/person/nationality	France
+Massachusetts Institute of Technology	/education/educational_institution/students_graduates./education/education/major_field_of_study	chemistry
+1960 Summer Olympics	/user/jg/default_domain/olympic_games/sports	eventing
+kazoo	/music/performance_role/regular_performances./music/group_membership/role	oud
+Dimeback	/sports/sports_position/players./sports/sports_team_roster/team	New England Patriots
+Bachelor of Arts	/education/educational_degree/people_with_this_degree./education/education/student	Howard Stern
+Intolerable Cruelty	/film/film/music	Carter Burwell
+Robert Towne	/people/person/profession	screenwriter
+Frances McDormand	/award/award_nominee/award_nominations./award/award_nomination/award	Screen Actors Guild Award for Outstanding Performance by a Cast in a Motion Picture
+The Hunger Games	/film/film/release_date_s./film/film_regional_release_date/film_release_region	People's Republic of China
+Carter Bays	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	Craig Thomas
+percussion instrument	/music/performance_role/track_performances./music/track_contribution/role	hurdy-gurdy
+David Fincher	/film/director/film	The Curious Case of Benjamin Button
+Benjamin Franklin	/influence/influence_node/influenced_by	David Hume
+Arjen Anthony Lucassen	/music/artist/contribution./music/recording_contribution/performance_role	synthesizer
+Singapore	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	March
+Manivannan	/people/person/gender	male organism
+Mona Lisa	/award/award_winning_work/awards_won./award/award_honor/award	New York Film Critics Circle Award for Best Actor
+Singin' in the Rain	/film/film/genre	musical film
+28th Academy Awards	/award/award_ceremony/awards_presented./award/award_honor/award_winner	Jack Lemmon
+Gene Kelly	/film/director/film	Singin' in the Rain
+drama film	/media_common/netflix_genre/titles	The Human Stain
+David Wenham	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	Orlando Bloom
+Hammond organ	/music/instrument/instrumentalists	Tori Amos
+Iris	/film/film/genre	drama film
+Jason Biggs	/people/person/religion	Catholicism
+Gloria Estefan	/people/person/spouse_s./people/marriage/type_of_union	marriage
+Hugo Award for Best Novella	/award/award_category/winners./award/award_honor/award_winner	Charles Stross
+American Horror Story	/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor	Jessica Lange
+Michael Patrick King	/award/award_nominee/award_nominations./award/award_nomination/nominated_for	Sex and the City
+South Carolina	/location/location/contains	The Citadel, The Military College of South Carolina
+Weeds	/award/award_winning_work/awards_won./award/award_honor/award_winner	Mary-Louise Parker
+The Song of Bernadette	/film/film/release_date_s./film/film_regional_release_date/film_release_region	Austria
+lead guitar	/music/performance_role/regular_performances./music/group_membership/role	cymbal
+Italian American	/people/ethnicity/people	Martin Scorsese
+Academy Award for Best Costume Design	/award/award_category/winners./award/award_honor/ceremony	71st Academy Awards
+Winona Ryder	/award/award_nominee/award_nominations./award/award_nomination/award	Independent Spirit Award for Best Female Lead
+Hammond organ	/music/instrument/instrumentalists	Jon Lord
+Manisaspor	/soccer/football_team/current_roster./soccer/football_roster_position/position	goalkeeper
+S.C. Olhanense	/soccer/football_team/current_roster./soccer/football_roster_position/position	goalkeeper
+1988 Winter Olympics	/user/jg/default_domain/olympic_games/sports	luge
+Blade: Trinity	/film/film/film_format	Super 35
+Singin' in the Rain	/award/award_winning_work/awards_won./award/award_honor/award_winner	Betty Comden
+law degree	/education/educational_degree/people_with_this_degree./education/education/institution	Columbia Law School
+Bachelor of Science	/education/educational_degree/people_with_this_degree./education/education/major_field_of_study	chemistry
+Conservatoire de Paris	/education/educational_institution/students_graduates./education/education/student	Jean-Michel Jarre
+Atom Egoyan	/people/person/gender	male organism
+48th Academy Awards	/time/event/instance_of_recurring_event	Academy Awards
+Sex and the City	/award/award_winning_work/awards_won./award/award_honor/award_winner	Sarah Jessica Parker
+Goya Award for Best Original Screenplay	/award/award_category/nominees./award/award_nomination/nominated_for	Talk to Her
+Don Cheadle	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	Vondie Curtis-Hall
+Regis Philbin	/people/person/spouse_s./people/marriage/type_of_union	marriage
+The Hunchback of Notre Dame	/award/award_winning_work/awards_won./award/award_honor/award_winner	Stephen Schwartz
+Bachelor of Science	/education/educational_degree/people_with_this_degree./education/education/institution	Cornell University
+Georgetown University Law Center	/education/educational_institution/students_graduates./education/education/student	Bill Clinton
+Andy Ackerman	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	Dan O'Shannon
+Bard College	/education/educational_institution/students_graduates./education/education/student	Peter Stone
+Michel Colombier	/people/deceased_person/place_of_death	Santa Monica
+Stephanie Morgenstern	/people/person/profession	screenwriter
+Sony Pictures Entertainment	/organization/organization/child./organization/organization_relationship/child	TriStar Pictures
+The Curious Case of Benjamin Button	/film/film/other_crew./film/film_crew_gig/film_crew_role	production sound mixer
+Latvia	/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/olympics	2012 Summer Olympics
+Denver Broncos	/sports/professional_sports_team/draft_picks./sports/sports_league_draft_pick/draft	2006 NFL Draft
+It Happened One Night	/award/award_winning_work/awards_won./award/award_honor/award_winner	Clark Gable
+David Krumholtz	/film/actor/film./film/performance/film	Ray
+Emile Hirsch	/film/actor/film./film/performance/film	Speed Racer
+Central School of Speech and Drama	/education/educational_institution/students_graduates./education/education/student	Jon Lord
+Heroes	/film/film/language	English
+Crash	/award/award_winning_work/awards_won./award/award_honor/award	Screen Actors Guild Award for Outstanding Performance by a Cast in a Motion Picture
+Alain Johannes	/people/person/spouse_s./people/marriage/type_of_union	marriage
+Norway	/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/olympics	1920 Summer Olympics
+Anger Management	/film/film/other_crew./film/film_crew_gig/film_crew_role	sound editor
+Viggo Mortensen	/people/person/places_lived./people/place_lived/location	Venezuela
+Liev Schreiber	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	Hugh Jackman
+Joshua Logan	/award/award_nominee/award_nominations./award/award_nomination/award	BAFTA Award for Best Film
+42nd Academy Awards	/time/event/instance_of_recurring_event	Academy Awards
+Romania	/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/olympics	1960 Summer Olympics
+English	/language/human_language/countries_spoken_in	Sri Lanka
+Toy Story	/film/film/release_date_s./film/film_regional_release_date/film_release_region	Argentina
+Billy Bragg	/people/person/gender	male organism
+Club de Futbol Olimpia	/soccer/football_team/current_roster./soccer/football_roster_position/position	goalkeeper
+Freddie Hubbard	/people/person/gender	male organism
+Alyssa Milano	/base/popstra/celebrity/canoodled./base/popstra/canoodled/participant	Jessica Biel
+Joshua Jackson	/people/person/gender	male organism
+50 Cent	/base/popstra/celebrity/dated./base/popstra/dated/participant	Ciara
+Orlando	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	December
+Gilles Deleuze	/people/person/place_of_birth	Paris
+baseball	/sports/sport/pro_athletes./sports/pro_sports_played/athlete	Gary Sheffield
+21 Jump Street	/film/film/release_date_s./film/film_regional_release_date/film_release_region	Vietnam
+marriage	/people/marriage_union_type/unions_of_this_type./people/marriage/location_of_ceremony	Newport Beach
+Cleveland	/location/location/adjoin_s./location/adjoining_relationship/adjoins	Lakewood
+Battle of France	/time/event/locations	France
+Elijah Wood	/award/award_winner/awards_won./award/award_honor/award_winner	Orlando Bloom
+10th United States Congress	/government/legislative_session/members./government/government_position_held/district_represented	South Carolina
+Hotel Transylvania	/film/film/release_date_s./film/film_regional_release_date/film_release_region	Lithuania
+Tracy Chapman	/people/person/profession	singer-songwriter
+Duke University	/education/educational_institution/students_graduates./education/education/student	Ron Paul
+Ewan McGregor	/people/person/spouse_s./people/marriage/type_of_union	marriage
+Larry Klein	/music/artist/track_contributions./music/track_contribution/role	electronic keyboard
+Get Shorty	/film/film/language	English
+percussion instrument	/music/performance_role/regular_performances./music/group_membership/group	Bob Marley & The Wailers
+Mehmood Ali	/people/person/spouse_s./people/marriage/type_of_union	marriage
+Bill Murray	/people/person/profession	screenwriter
+Jimmy Fallon	/base/popstra/celebrity/dated./base/popstra/dated/participant	Winona Ryder
+OCAD University	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	Canadian dollar
+St Albans	/base/biblioness/bibs_location/state	Hertfordshire
+Ernest Haller	/people/person/gender	male organism
+Cedar Rapids	/location/hud_county_place/county	Linn County
+The Twilight Saga: New Moon	/film/film/release_date_s./film/film_regional_release_date/film_release_region	Venezuela
+The Goodbye Girl	/film/film/film_production_design_by	Albert Brenner
+Liev Schreiber	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	will.i.am
+Darryl F. Zanuck	/people/person/profession	screenwriter
+sampler	/music/performance_role/track_performances./music/track_contribution/role	percussion instrument
+mystery fiction	/media_common/netflix_genre/titles	The Adventures of Ford Fairlane
+Sebastian Krys	/award/award_winner/awards_won./award/award_honor/award_winner	Shakira
+Screen Actors Guild Award for Outstanding Performance by a Cast in a Motion Picture	/award/award_category/winners./award/award_honor/award_winner	Orlando Bloom
+Robert Wyatt	/music/artist/track_contributions./music/track_contribution/role	electronic keyboard
+Gustave Flaubert	/people/person/nationality	France
+Burl Ives	/people/person/profession	voice actor
+Ice-T	/award/award_nominee/award_nominations./award/award_nomination/award	Grammy Award for Best Rap Solo Performance
+Bachelor of Science	/education/educational_degree/people_with_this_degree./education/education/institution	Beloit College
+University of Notre Dame	/education/educational_institution/students_graduates./education/education/student	Regis Philbin
+Bruce Almighty	/film/film/language	English
+Scott McDonald	/people/person/spouse_s./people/marriage/type_of_union	marriage
+Liev Schreiber	/award/award_nominee/award_nominations./award/award_nomination/award	Tony Award for Best Actor in a Play
+North Atlantic Treaty Organization	/user/ktrueman/default_domain/international_organization/member_states	Latvia
+20th Century Fox	/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	Willow
+autoharp	/music/performance_role/track_performances./music/track_contribution/role	accordion
+Golden Globe Award for Best Original Score	/award/award_category/nominees./award/award_nomination/nominated_for	Rocky
+V for Vendetta	/film/film/release_date_s./film/film_regional_release_date/film_release_region	Belgium
+goalkeeper	/sports/sports_position/players./sports/sports_team_roster/team	FC Karpaty Lviv
+Pohang Steelers	/soccer/football_team/current_roster./soccer/football_roster_position/position	goalkeeper
+eventing	/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/country	Belgium
+Peter Ustinov	/award/award_nominee/award_nominations./award/award_nomination/award	BAFTA Award for Best Actor in a Leading Role
+Tampa Bay Rays	/baseball/baseball_team/team_stats./baseball/baseball_team_stats/season	2007 Major League Baseball season
+Saeed Jaffrey	/people/person/religion	Islam
+Flags of Our Fathers	/film/film/genre	drama film
+Brenda Strong	/people/person/spouse_s./people/marriage/type_of_union	marriage
+Dave Wittenberg	/people/person/gender	male organism
+Giovanni Ribisi	/film/actor/film./film/performance/film	Avatar
+Scott McDonald	/sports/pro_athlete/teams./sports/sports_team_roster/team	Wimbledon F.C.
+Steven Bochco	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	David Milch
+Trey Parker	/people/person/places_lived./people/place_lived/location	Denver
+Dante Alighieri	/people/person/gender	male organism
+Goya Award for Best Original Screenplay	/award/award_category/nominees./award/award_nomination/nominated_for	The Sea Inside
+toy piano	/music/performance_role/track_performances./music/track_contribution/role	clapping
+Nigel Lythgoe	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	Simon Cowell
+Bob Seger	/people/person/profession	singer-songwriter
+Downfall	/film/film/genre	drama film
+Metro Detroit	/location/location/contains	Dearborn
+People's Republic of China	/olympics/olympic_participating_country/athletes./olympics/olympic_athlete_affiliation/olympics	2012 Summer Olympics
+Stan Lee	/people/person/profession	screenwriter
+Robert Evans	/people/person/spouse_s./people/marriage/type_of_union	marriage
+2004 Major League Baseball draft	/sports/sports_league_draft/picks./sports/sports_league_draft_pick/school	Boston College
+Demi Moore	/award/award_nominee/award_nominations./award/award_nomination/award	Golden Raspberry Award for Worst Screen Couple/Ensemble
+lead guitar	/music/performance_role/regular_performances./music/group_membership/role	mellotron
+Chris Nurse	/people/person/gender	male organism
+Thirteen Days	/film/film/produced_by	Kevin Costner
+60th Primetime Emmy Awards	/award/award_ceremony/awards_presented./award/award_honor/award_winner	Laura Linney
+suspense	/media_common/netflix_genre/titles	Jaws 3-D
+Morgan Freeman	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	Kevin Costner
+The Twilight Saga: New Moon	/film/film/language	English
+Tamil Nadu	/location/location/contains	Madurai
+philosophy	/people/person/gender	male organism
+Max Martin	/award/award_nominee/award_nominations./award/award_nomination/award	Grammy Award for Record of the Year
+percussion instrument	/music/performance_role/regular_performances./music/group_membership/role	synthesizer
+Wedding Crashers	/film/film/film_format	Super 35
+Golden Globe Award for Best Original Score	/award/award_category/nominees./award/award_nomination/nominated_for	Yentl
+Joni Mitchell	/music/artist/track_contributions./music/track_contribution/role	oboe
+Dakota Fanning	/film/actor/dubbing_performances./film/dubbing_performance/language	English
+The Twilight Saga: New Moon	/film/film/release_date_s./film/film_regional_release_date/film_release_region	South Korea
+doctoral degree	/education/educational_degree/people_with_this_degree./education/education/major_field_of_study	economic history
+Louis Gossett	/people/person/gender	male organism
+William Fichtner	/award/award_nominee/award_nominations./award/award_nomination/award	Screen Actors Guild Award for Outstanding Performance by a Cast in a Motion Picture
+Don Messick	/film/actor/film./film/performance/film	The Transformers: The Movie
+marriage	/people/marriage_union_type/unions_of_this_type./people/marriage/location_of_ceremony	France
+The Lord of the Rings: The Return of the King	/film/film/release_date_s./film/film_regional_release_date/film_release_region	Norway
+Stephen Colbert	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	Tim Carvell
+BAFTA Award for Best Editing	/award/award_category/nominees./award/award_nomination/nominated_for	A Bridge Too Far
+Judy Greer	/people/person/profession	voice actor
+drama film	/media_common/netflix_genre/titles	Platoon
+The Outer Limits	/tv/tv_program/languages	English
+Anonymous	/film/film/release_date_s./film/film_regional_release_date/film_release_region	France
+Academy Award for Best Original Song	/award/award_category/winners./award/award_honor/ceremony	32nd Academy Awards
+Jada Pinkett Smith	/people/person/profession	screenwriter
+Molly Parker	/people/person/spouse_s./people/marriage/type_of_union	marriage
+Lucky Numbers	/film/film/release_date_s./film/film_regional_release_date/film_release_region	France
+Big Fish	/film/film/release_date_s./film/film_regional_release_date/film_release_region	India
+myocardial infarction	/people/cause_of_death/people	Murray Rothbard
+marriage	/people/marriage_union_type/unions_of_this_type./people/marriage/location_of_ceremony	Cheshire
+Breaking and Entering	/film/film/other_crew./film/film_crew_gig/film_crew_role	production sound mixer
+24: Redemption	/film/film/other_crew./film/film_crew_gig/film_crew_role	set decorator
+romance film	/media_common/netflix_genre/titles	Oscar and Lucinda
+Robert Palmer	/people/deceased_person/place_of_death	Paris
+Nevada	/location/statistical_region/religions./location/religion_percentage/religion	Christianity
+Katharine Hepburn	/award/award_nominee/award_nominations./award/award_nomination/nominated_for	On Golden Pond
+luge	/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/country	Austria
+Beverly D'Angelo	/base/popstra/celebrity/dated./base/popstra/dated/participant	Shaquille O'Neal
+Walter Plunkett	/award/award_nominee/award_nominations./award/award_nomination/nominated_for	An American in Paris
+Cate Blanchett	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	John C. Reilly
+Martin Lawrence	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	Will Smith
+Molly Shannon	/people/person/religion	Catholicism
+Priyadarshan	/award/award_nominee/award_nominations./award/award_nomination/award	Filmfare Award for Best Director
+Hamlet	/film/film/language	English
+P.S. I Love You	/film/film/release_date_s./film/film_regional_release_date/film_release_region	Latvia
+New Hampshire	/location/location/adjoin_s./location/adjoining_relationship/adjoins	Quebec
+Lords of Dogtown	/film/film/executive_produced_by	David Fincher
+Hawaii	/base/popstra/location/vacationers./base/popstra/vacation_choice/vacationer	Will Smith
+54th Annual Grammy Awards	/award/award_ceremony/awards_presented./award/award_honor/award_winner	Jeff Bhasker
+Brittany	/location/administrative_division/first_level_division_of	France
+Ecuador	/location/location/partially_contains	Andes
+Holly Marie Combs	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	Don Cheadle
+Orlando Bloom	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	Elijah Wood
+Jodhaa Akbar	/film/film/country	India
+20th Century Fox	/award/award_nominee/award_nominations./award/award_nomination/nominated_for	All About Eve
+Brendan Fraser	/award/award_winner/awards_won./award/award_honor/award_winner	Don Cheadle
+Frances McDormand	/award/award_nominee/award_nominations./award/award_nomination/award	Independent Spirit Award for Best Female Lead
+B. J. Novak	/award/award_winner/awards_won./award/award_honor/award_winner	Jenna Fischer
+The Departed	/film/film/film_format	Super 35
+Bill Hicks	/influence/influence_node/influenced_by	Jimi Hendrix
+BAFTA Award for Best Actor in a Leading Role	/award/award_category/nominees./award/award_nomination/nominated_for	The Constant Gardener
+Wanted	/film/film/other_crew./film/film_crew_gig/film_crew_role	production sound mixer
+Antichrist	/film/film/other_crew./film/film_crew_gig/film_crew_role	production sound mixer
+apple	/food/food/nutrients./food/nutrition_fact/nutrient	L-Isoleucine
+The Mummy Returns	/film/film/other_crew./film/film_crew_gig/film_crew_role	sound editor
+Neil Simon	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	Emanuel Azenberg
+Elias Koteas	/people/person/gender	male organism
+George Duke	/music/artist/track_contributions./music/track_contribution/role	synthesizer
+The Twilight Saga: New Moon	/film/film/genre	romance film
+mellotron	/music/performance_role/track_performances./music/track_contribution/role	French horn
+Cass County	/location/location/contains	Fargo
+Dave Grusin	/people/person/profession	artist
+Gulliver's Travels	/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor	Edward Woodward
+Latin American music	/music/genre/artists	Draco Rosa
+Claude Berri	/people/person/spouse_s./people/marriage/type_of_union	marriage
+Cuba Gooding Jr.	/film/actor/film./film/performance/film	Radio
+Helen Hayes	/people/person/spouse_s./people/marriage/type_of_union	marriage
+Kid vs. Kat	/tv/tv_program/genre	children's television series
+John Krasinski	/film/actor/film./film/performance/film	It's Complicated
+Grammy Award for Best Music Video	/award/award_category/winners./award/award_honor/award_winner	Korn
+The Dark Knight Rises	/film/film/release_date_s./film/film_regional_release_date/film_release_region	Venezuela
+Kilkenny	/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	County Kilkenny
+drama film	/media_common/netflix_genre/titles	World Trade Center
+Bob Gunton	/people/person/places_lived./people/place_lived/location	Santa Monica
+Bachelor of Arts	/education/educational_degree/people_with_this_degree./education/education/institution	Skidmore College
+Heather Graham	/people/person/religion	Catholicism
+Glen Ballard	/people/person/place_of_birth	Natchez
+Albert Finney	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	Philip Seymour Hoffman
+treasurer	/business/job_title/people_with_this_title./business/employment_tenure/company	Macy's, Inc.
+Satellite Award for Best Cinematography	/award/award_category/nominees./award/award_nomination/nominated_for	Shakespeare in Love
+Fantastic Mr. Fox	/film/film/production_companies	20th Century Fox
+Bicentennial Man	/film/film/genre	romance film
+Hotel Transylvania	/film/film/release_date_s./film/film_regional_release_date/film_release_region	Vietnam
+University College London	/education/educational_institution/students_graduates./education/education/student	Mahatma Gandhi
+Hellboy	/film/film/language	English
+Sex and the City 2	/award/award_winning_work/awards_won./award/award_honor/award_winner	Michael Patrick King
+David Krumholtz	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	Shia LaBeouf
+New York Jets	/sports/professional_sports_team/draft_picks./sports/sports_league_draft_pick/draft	2006 NFL Draft
+Oriel College	/organization/organization/headquarters./location/mailing_address/state_province_region	Oxfordshire
+Lal	/people/person/nationality	India
+William T. Orr	/people/person/spouse_s./people/marriage/type_of_union	marriage
+National Society of Film Critics Award for Best Film	/award/award_category/nominees./award/award_nomination/nominated_for	Annie Hall
+Stalag 17	/award/award_winning_work/awards_won./award/award_honor/award_winner	William Holden
+Fargo	/film/film/music	Carter Burwell
+Arthur Christmas	/film/film/release_date_s./film/film_regional_release_date/film_release_region	Belgium
+Jim Sheridan	/people/person/spouse_s./people/marriage/type_of_union	marriage
+Tim Burton	/people/person/spouse_s./people/marriage/type_of_union	marriage
+Warner Bros. Records	/music/record_label/artist	Linkin Park
+Astralwerks	/music/record_label/artist	Yoko Ono
+Academy Award for Best Costume Design	/award/award_category/winners./award/award_honor/ceremony	72nd Academy Awards
+The Host	/film/film/release_date_s./film/film_regional_release_date/film_release_region	Belgium
+Producers Guild of America Award for Best Theatrical Motion Picture	/award/award_category/nominees./award/award_nomination/nominated_for	Avatar
+William H. Macy	/award/award_nominee/award_nominations./award/award_nomination/nominated_for	Fargo
+Laura Linney	/award/award_nominee/award_nominations./award/award_nomination/nominated_for	John Adams
+World War I	/base/culturalevent/event/entity_involved	Empire of Japan
+Carter Bays	/people/person/spouse_s./people/marriage/type_of_union	marriage
+Slovakia	/military/military_combatant/military_conflicts./military/military_combatant_group/combatants	Empire of Japan
+Sunderland A.F.C.	/soccer/football_team/current_roster./soccer/football_roster_position/position	goalkeeper
+Screen Actors Guild Award for Outstanding Performance by a Female Actor in a Leading Role	/award/award_category/nominees./award/award_nomination/nominated_for	Monster's Ball
+Bachelor of Science	/education/educational_degree/people_with_this_degree./education/education/student	Bill Clinton
+William H. Macy	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	Ashton Kutcher
+Steven Levitan	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	Garry Shandling
+Ken Russell	/award/award_nominee/award_nominations./award/award_nomination/award	BAFTA Award for Best Film
+Steve-O	/people/person/gender	male organism
+Billy Preston	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	Ravi Shankar
+Jerry Garcia	/people/person/religion	Catholicism
+Kristin Davis	/award/award_nominee/award_nominations./award/award_nomination/nominated_for	Sex and the City
+swimming	/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/country	Togo
+John Adams	/tv/tv_program/languages	English
+The Clearing	/film/film/release_date_s./film/film_regional_release_date/film_release_region	Belgium
+Charmed	/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor	Holly Marie Combs
+Academy Award for Best Original Song	/award/award_category/winners./award/award_honor/ceremony	72nd Academy Awards
+Tangled	/film/film/release_date_s./film/film_regional_release_date/film_release_region	Lithuania
+Benjamin Franklin	/people/person/profession	scientist
+Primetime Emmy Award for Outstanding Guest Actor in a Drama Series	/award/award_category/winners./award/award_honor/ceremony	57th Primetime Emmy Awards
+People's Republic of China	/media_common/netflix_genre/titles	Kung Fu Hustle
+Dave Mustaine	/music/group_member/membership./music/group_membership/role	lead guitar
+Massachusetts	/location/location/contains	Newburyport
+Bachelor of Arts	/education/educational_degree/people_with_this_degree./education/education/institution	Merton College
+Charles Baudelaire	/people/person/places_lived./people/place_lived/location	Paris
+Tim Carvell	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	Rory Albanese
+Ken Ralston	/people/person/gender	male organism
+synthesizer	/music/performance_role/track_performances./music/track_contribution/role	musical saw
+Keith Moon	/music/group_member/membership./music/group_membership/group	Plastic Ono Band
+Bill Wyman	/music/artist/track_contributions./music/track_contribution/role	maraca
+Goldie Hawn	/people/person/spouse_s./people/marriage/spouse	Kurt Russell
+Gene Hackman	/film/actor/film./film/performance/film	Enemy of the State
+Latvia	/organization/organization_member/member_of./organization/organization_membership/organization	Council of Europe
+Bryan Ferry	/people/person/gender	male organism
+Fritz Lang	/people/person/nationality	Austria
+The Iron Lady	/film/film/release_date_s./film/film_regional_release_date/film_release_region	Singapore
+The Jacket	/film/film/other_crew./film/film_crew_gig/film_crew_role	production sound mixer
+Xerez C.D.	/soccer/football_team/current_roster./sports/sports_team_roster/position	goalkeeper
+Nino Rota	/people/person/places_lived./people/place_lived/location	Milan
+Pete Seeger	/people/person/profession	composer
+David Fincher	/people/person/spouse_s./people/marriage/type_of_union	marriage
+The Turning Point	/award/award_winning_work/awards_won./award/award_honor/award_winner	Herbert Ross
+marriage	/people/marriage_union_type/unions_of_this_type./people/marriage/location_of_ceremony	Wisconsin
+Delhi	/base/biblioness/bibs_location/country	India
+Desperate Housewives	/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor	Alfre Woodard
+suspense	/media_common/netflix_genre/titles	3:10 to Yuma
+Gandhi	/film/film/music	Ravi Shankar
+Joel Edgerton	/people/person/profession	voice actor
+Bohemia	/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/olympics	1912 Summer Olympics
+Terrence Howard	/award/award_nominee/award_nominations./award/award_nomination/nominated_for	Ray
+Montgomery	/location/location/time_zones	Central Time Zone
+Jessica Biel	/base/popstra/celebrity/canoodled./base/popstra/canoodled/participant	Alyssa Milano
+Kiefer Sutherland	/award/award_nominee/award_nominations./award/award_nomination/nominated_for	Melancholia
+Grease	/film/film/release_date_s./film/film_regional_release_date/film_release_region	France
+Grammy Award for Producer of the Year, Non-Classical	/award/award_category/winners./award/award_honor/ceremony	2003 Grammy Awards
+FilmFlex	/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	Insidious
+canoe slalom	/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/country	Austria
+Vivica A. Fox	/people/person/places_lived./people/place_lived/location	California
+African Americans	/people/ethnicity/people	Giancarlo Esposito
+Guys and Dolls	/film/film/genre	musical film
+Sarah Michelle Gellar	/people/person/languages	English
+Rome	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	December
+Redlands	/location/hud_county_place/county	San Bernardino County
+Primetime Emmy Award for Outstanding Supporting Actor in a Miniseries or a Movie	/award/award_category/nominees./award/award_nomination/nominated_for	Grey Gardens
+Napoli	/soccer/football_team/current_roster./sports/sports_team_roster/position	goalkeeper
+William Fichtner	/award/award_nominee/award_nominations./award/award_nomination/nominated_for	Nine Lives
+Body of Lies	/film/film/production_companies	Village Roadshow Pictures
+Haywire	/film/film/film_festivals	62nd Berlin International Film Festival
+Burt Young	/people/person/spouse_s./people/marriage/type_of_union	marriage
+sampler	/music/performance_role/regular_performances./music/group_membership/role	lead guitar
+clapping	/music/performance_role/track_performances./music/track_contribution/role	percussion instrument
+Bachelor of Arts	/education/educational_degree/people_with_this_degree./education/education/institution	Texas Tech University
+Jacksonville	/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	Duval County
+Grammy Award for Best Country Instrumental Performance	/award/award_category/winners./award/award_honor/award_winner	Chet Atkins
+James Blunt	/people/person/gender	male organism
+Alec Berg	/people/person/gender	male organism
+Darryl F. Zanuck	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	20th Century Fox
+The Human Stain	/film/film/genre	drama film
+Morgan Spurlock	/people/person/profession	screenwriter
+To Rome with Love	/film/film/featured_film_locations	Rome
+BAFTA Award for Best Actor in a Leading Role	/award/award_category/winners./award/award_honor/award_winner	Bob Hoskins
+Hume Cronyn	/award/award_nominee/award_nominations./award/award_nomination/award	Tony Award for Best Actor in a Play
+Ken Adam	/award/award_nominee/award_nominations./award/award_nomination/nominated_for	The Madness of King George
+Romania	/organization/organization_member/member_of./organization/organization_membership/organization	/m/02jxk
+drama film	/media_common/netflix_genre/titles	Man on the Moon
+Punch-Drunk Love	/film/film/release_date_s./film/film_regional_release_date/film_release_region	Lithuania
+Judy Greer	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	Matthew Lillard
+Joan Blondell	/base/popstra/celebrity/dated./base/popstra/dated/participant	Clark Gable
+20th Century Fox	/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	Mr. & Mrs. Smith
+Claude Berri	/people/person/nationality	France
+doctoral degree	/education/educational_degree/people_with_this_degree./education/education/major_field_of_study	art history
+104th United States Congress	/government/legislative_session/members./government/government_position_held/legislative_sessions	98th United States Congress
+Stalag 17	/film/film/release_date_s./film/film_regional_release_date/film_release_region	Sweden
+African Americans	/people/ethnicity/people	Roy Haynes
+Jessica Lange	/award/award_nominee/award_nominations./award/award_nomination/nominated_for	American Horror Story
+tambourine	/music/performance_role/track_performances./music/track_contribution/role	mellotron
+Jason Mraz	/music/artist/origin	California
+Nicole Scherzinger	/base/popstra/celebrity/canoodled./base/popstra/canoodled/participant	will.i.am
+African Americans	/people/ethnicity/people	Chuck Berry
+Inception	/award/award_winning_work/awards_won./award/award_honor/award	Satellite Award for Best Cinematography
+swimming	/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/country	Cayman Islands
+Elijah Wood	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	David Wenham
+bass clarinet	/music/performance_role/regular_performances./music/group_membership/role	tenor saxophone
+American Gangster	/film/film/written_by	Steven Zaillian
+woodwind instrument	/music/performance_role/regular_performances./music/group_membership/group	The Band
+Sheila E.	/people/person/places_lived./people/place_lived/location	California
+Oscar and Lucinda	/film/film/release_date_s./film/film_regional_release_date/film_release_region	Norway
+goalkeeper	/sports/sports_position/players./sports/sports_team_roster/team	H.N.K. Hajduk Split
+Sweden	/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/olympics	1988 Winter Olympics
+Antichrist	/film/film/language	English
+Joe Jackson	/award/award_nominee/award_nominations./award/award_nomination/award	Grammy Award for Record of the Year
+I Heart Huckabees	/film/film/genre	black comedy
+The Madness of King George	/award/award_winning_work/awards_won./award/award_honor/award_winner	Ken Adam
+Atlanta	/travel/travel_destination/how_to_get_here./travel/transportation/mode_of_transportation	train
+Brendan Fraser	/people/person/languages	French
+Terence Winter	/award/award_winner/awards_won./award/award_honor/award_winner	Martin Scorsese
+Henry V	/film/film/production_companies	The Samuel Goldwyn Company
+Thomas Ian Nicholas	/people/person/profession	screenwriter
+Sony Pictures Entertainment	/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_language	English
+Sweden	/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/olympics	1912 Summer Olympics
+Stephen Colbert	/people/person/profession	screenwriter
+Sam Rockwell	/film/actor/film./film/performance/film	The Green Mile
+Singapore	/olympics/olympic_participating_country/athletes./olympics/olympic_athlete_affiliation/olympics	2012 Summer Olympics
+James Whitmore	/people/person/spouse_s./people/marriage/type_of_union	marriage
+Peter Weir	/people/person/spouse_s./people/marriage/type_of_union	marriage
+cross-country skiing	/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/country	Algeria
+Monica Rial	/people/person/profession	voice actor
+Tamil Nadu	/base/biblioness/bibs_location/country	India
+Herman Melville	/influence/influence_node/influenced_by	William Shakespeare
+Men in Black 3	/film/film/release_date_s./film/film_regional_release_date/film_release_region	Belgium
+Melissa Etheridge	/people/person/spouse_s./people/marriage/type_of_union	marriage
+Henry Grace	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	Frank R. McKelvy
+Phyllis Logan	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	Siobhan Finneran
+Diane Lane	/film/actor/film./film/performance/film	Jumper
+Resident Evil: Retribution	/film/film/release_date_s./film/film_regional_release_date/film_release_region	Norway
+Manny Coto	/people/person/gender	male organism
+24: Redemption	/film/film/language	English
+The Sound of Music	/film/film/genre	romance film
+Nathaniel Hawthorne	/people/person/gender	male organism
+Dr. Dre	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	Missy Elliott
+Jimmy Buffett	/people/person/languages	English
+Annie Hall	/film/film/genre	romance film
+Alien: Resurrection	/film/film/language	English
+musical film	/media_common/netflix_genre/titles	Mulan
+Demi Moore	/film/actor/film./film/performance/film	A Few Good Men
+Babel	/film/film/language	French
+Eve Myles	/award/award_nominee/award_nominations./award/award_nomination/nominated_for	Torchwood
+Morrissey	/people/person/places_lived./people/place_lived/location	Manchester
+Hugh Jackman	/award/award_nominee/award_nominations./award/award_nomination/award	BAFTA Award for Best Actor in a Leading Role
+Richard Price	/people/person/profession	screenwriter
+will.i.am	/music/artist/track_contributions./music/track_contribution/role	synthesizer
+Bachelor of Science	/education/educational_degree/people_with_this_degree./education/education/institution	University of Delaware
+The Tree of Life	/film/film/release_date_s./film/film_regional_release_date/film_release_region	Norway
+The Hunger Games	/film/film/release_date_s./film/film_regional_release_date/film_release_region	Sweden
+Ben Stiller	/film/actor/film./film/performance/film	Madagascar: Escape 2 Africa
+Talk to Her	/film/film/other_crew./film/film_crew_gig/film_crew_role	sound editor
+Philip Seymour Hoffman	/people/person/gender	male organism
+Portland	/location/hud_county_place/county	Cumberland County
+Chris Waddle	/soccer/football_player/current_team./sports/sports_team_roster/team	Tottenham Hotspur F.C.
+Waheeda Rehman	/people/person/nationality	India
+World Trade Center	/film/film/other_crew./film/film_crew_gig/film_crew_role	production sound mixer
+Samuel Goldwyn	/people/person/gender	male organism
+Cuba Gooding Jr.	/people/person/places_lived./people/place_lived/location	Studio City
+Bachelor of Science	/education/educational_degree/people_with_this_degree./education/education/student	William H. Macy
+Capcom	/organization/organization/headquarters./location/mailing_address/citytown	Osaka
+Monster's Ball	/award/award_winning_work/awards_won./award/award_honor/award	Screen Actors Guild Award for Outstanding Performance by a Female Actor in a Leading Role
+The Dukes of Hazzard	/film/film/genre	buddy film
+The Curious Case of Benjamin Button	/film/film/language	French
+William Fichtner	/people/person/gender	male organism
+The Red Violin	/film/film/genre	romance film
+Rock and Roll Hall of Fame	/award/hall_of_fame/inductees./award/hall_of_fame_induction/inductee	Talking Heads
+Arjun Rampal	/people/person/gender	male organism
+Trey Parker	/people/person/gender	male organism
+Denmark national football team	/base/x2010fifaworldcupsouthafrica/world_cup_squad/current_world_cup_squad./base/x2010fifaworldcupsouthafrica/current_world_cup_squad/current_club	Stoke City F.C.
+Rent	/film/film/genre	LGBT
+Edmonton	/sports/sports_team_location/teams	Edmonton Oilers
+A. R. Rahman	/award/award_nominee/award_nominations./award/award_nomination/award	Golden Globe Award for Best Original Score
+synthesizer	/music/performance_role/track_performances./music/track_contribution/role	accordion
+Anthony LaPaglia	/award/award_nominee/award_nominations./award/award_nomination/award	Primetime Emmy Award for Outstanding Guest Actor in a Comedy Series
+House of Flying Daggers	/award/award_winning_work/awards_won./award/award_honor/award	Satellite Award for Best Cinematography
+RCD Mallorca	/soccer/football_team/current_roster./soccer/football_roster_position/position	goalkeeper
+Yann Tiersen	/people/person/gender	male organism
+13th Screen Actors Guild Awards	/award/award_ceremony/awards_presented./award/award_honor/award_winner	Rainn Wilson
+percussion instrument	/music/performance_role/regular_performances./music/group_membership/group	The Beach Boys
+James Madison	/people/person/spouse_s./people/marriage/type_of_union	marriage
+Arthur Schopenhauer	/people/person/gender	male organism
+Alex Borstein	/award/award_nominee/award_nominations./award/award_nomination/award	Screen Actors Guild Award for Outstanding Performance by a Cast in a Motion Picture
+hurdy-gurdy	/music/instrument/family	string instrument
+Sarah Jessica Parker	/award/award_winner/awards_won./award/award_honor/award_winner	Michael Patrick King
+Lauren Ambrose	/award/award_winner/awards_won./award/award_honor/award_winner	Rainn Wilson
+Rachel Getting Married	/award/award_winning_work/awards_won./award/award_honor/award_winner	Jonathan Demme
+Fergie	/people/person/profession	singer-songwriter
+Bachelor of Science	/education/educational_degree/people_with_this_degree./education/education/institution	University of Canterbury
+Evangelion: 1.0 You Are (Not) Alone	/film/film/genre	anime
+Coolio	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	Shaquille O'Neal
+Holly Marie Combs	/base/popstra/celebrity/friendship./base/popstra/friendship/participant	Bruce Willis
+Ludwig Wittgenstein	/influence/influence_node/influenced_by	Arthur Schopenhauer
+Odense Boldklub	/soccer/football_team/current_roster./sports/sports_team_roster/position	goalkeeper
+Heather Graham	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	Laurence Fishburne
+The Shipping News	/film/film/language	English
+Shanghai	/location/administrative_division/country	People's Republic of China
+synthesizer	/music/performance_role/regular_performances./music/group_membership/role	percussion instrument
+psychedelic pop	/music/genre/artists	MGMT
+Demi Moore	/base/popstra/celebrity/dated./base/popstra/dated/participant	Bruce Willis
+Julia Ormond	/film/actor/film./film/performance/film	The Curious Case of Benjamin Button
+Christopher Boyes	/award/award_nominee/award_nominations./award/award_nomination/nominated_for	The Lord of the Rings: The Return of the King
+Josh Weinstein	/people/person/profession	voice actor
+The Crucible	/film/film/other_crew./film/film_crew_gig/film_crew_role	production sound mixer
+Seol Ki-hyeon	/people/person/spouse_s./people/marriage/type_of_union	marriage
+goalkeeper	/sports/sports_position/players./sports/sports_team_roster/team	Motherwell F.C.
+Coolio	/award/award_nominee/award_nominations./award/award_nomination/award	Grammy Award for Record of the Year
+African Americans	/people/ethnicity/people	Joy Bryant
+2006 NBA Draft	/sports/sports_league_draft/picks./sports/sports_league_draft_pick/school	Duke University
+Edward Herrmann	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	Bob Hoskins
+Paris	/location/location/contains	Conservatoire de Paris
+It's Complicated	/film/film/language	English
+Elijah Wood	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	Viggo Mortensen
+Screen Actors Guild Award for Outstanding Performance by an Ensemble in a Comedy Series	/award/award_category/winners./award/award_honor/award_winner	Kate Flannery
+Election	/film/film/genre	drama film
+Craig T. Nelson	/people/person/gender	male organism
+University of Missouri	/education/educational_institution/students_graduates./education/education/student	Robert Loggia
+Kevin Betsy	/soccer/football_player/current_team./sports/sports_team_roster/team	Barnsley Football Club
+15th United States Congress	/government/legislative_session/members./government/government_position_held/district_represented	Massachusetts
+Kiefer Sutherland	/film/actor/film./film/performance/film	24: Redemption
+Laura Linney	/award/award_nominee/award_nominations./award/award_nomination/award	Screen Actors Guild Award for Outstanding Performance by a Female Actor in a Leading Role
+University of Iowa	/education/educational_institution/colors	Old gold
+apple	/food/food/nutrients./food/nutrition_fact/nutrient	glucose
+Adolphe Menjou	/people/person/gender	male organism
+Tom Werner	/award/award_nominee/award_nominations./award/award_nomination/nominated_for	The Cosby Show
+Bachelor of Science	/education/educational_degree/people_with_this_degree./education/education/institution	California State University, Fullerton
+Bachelor of Science	/education/educational_degree/people_with_this_degree./education/education/institution	University of Mississippi
+Mark Johnson	/film/actor/film./film/performance/film	My Sister's Keeper
+MTV Video Music Award for Best Editing	/award/award_category/winners./award/award_honor/award_winner	Madonna
+Iron Man 2	/film/film/release_date_s./film/film_regional_release_date/film_release_region	Latvia
+Ashton Kutcher	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	William H. Macy
+Saeed Jaffrey	/people/person/gender	male organism
+Flags of Our Fathers	/film/film/language	English
+Daniel Handler	/music/artist/track_contributions./music/track_contribution/role	electronic keyboard
+Louis Gossett	/award/award_nominee/award_nominations./award/award_nomination/award	Primetime Emmy Award for Outstanding Guest Actor in a Drama Series
+Method Man	/people/person/profession	master of ceremonies
+George Benson	/people/person/languages	English
